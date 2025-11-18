@@ -1,9 +1,9 @@
-#  naCidade — Seu guia de eventos locais
+#  naCidade
 
-O **naCidade** é uma plataforma web voltada para a **divulgação e descoberta de eventos de pequeno e médio porte** na cidade de **Barueri e região**.  
-A proposta é facilitar a vida de quem quer **ficar por dentro de shows, apresentações de humor, esportes, teatros e eventos infantis** — tudo em um só lugar.
+O *naCidade é uma plataforma web voltada para a divulgação e descoberta de eventos de pequeno e médio porte na cidade de Barueri e região.  
+A proposta é facilitar a vida de quem quer ficar por dentro de shows, apresentações de humor, esportes, teatros e eventos infantis — tudo em um só lugar.
 
->  A ideia surgiu quando percebi que **perdi um show de um humorista que eu gosto** porque fiquei sabendo **só depois que já tinha acontecido**.  
+>  A ideia surgiu quando percebi que perdi um show de um humorista que eu gosto porque fiquei sabendo só depois que já tinha acontecido*.  
 > Isso me motivou a criar o naCidade!
 
 ---
@@ -105,5 +105,5 @@ https://6908ed872d902d0651b22b01.mockapi.io/usuarios
 https://6908ed872d902d0651b22b01.mockapi.io/eventos
 
 ## Desenvolvido por
-Breno
+Breno,
 Projeto criado com o intuito de facilitar o acesso à cultura e eventos locais.
